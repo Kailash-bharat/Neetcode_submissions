@@ -12,14 +12,6 @@
 
 class Solution {
 
-// private:
-//     int solve(int depth, TreeNode* root){
-//         if(root==NULL) return depth;
-//         depth++;
-
-//         return max
-//     }
-
 public:
     int maxDepth(TreeNode* root) {
         if(root==NULL) return 0;
